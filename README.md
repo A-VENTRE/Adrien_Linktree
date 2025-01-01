@@ -4,7 +4,7 @@ Ce repository contient des informations sur mon [Linktree](https://linktr.ee/Adr
 
 ## Objectif
 
-Linktree est un outil qui permet de centraliser plusieurs liens importants sur une seule page, facilitant ainsi le partage de contenu en ligne. :contentReference[oaicite:0]{index=0}
+Linktree est un outil qui permet de centraliser plusieurs liens importants sur une seule page, facilitant ainsi le partage de contenu en ligne.
 
 ## Utilité
 
